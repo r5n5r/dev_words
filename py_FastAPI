@@ -1,0 +1,1 @@
+@app.get() @app.post() @app.put() @app.delete() async def await async for BaseModel  Field(default=None) Optional Union Depends() yield  HTTPException status_code detail
