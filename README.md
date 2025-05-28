@@ -35,13 +35,13 @@
 
 Репозиторий содержит файлы, каждый из которых содержит набор слов и фраз, относящихся к определенному фреймворку/либе:
 
-* [py_basic](https://github.com/r5n5r/dev_words/py_basic)
+* [py_basic](https://github.com/r5n5r/dev_words/blob/main/py_basic)
   
   <i>Содержит базовые ключевые слова и операторы Python, которые являются частью стандартного синтаксиса языка</i>.
-* [py_django](https://github.com/r5n5r/dev_words/py_django)
+* [py_django](https://github.com/r5n5r/dev_words/blob/main/py_django)
   
   <i>Слова и конструкции, специфичные для веб-фреймворка [Django](https://www.djangoproject.com/).</i>
-* [py_FastAPI](https://github.com/r5n5r/dev_words/py_FastAPI)
+* [py_FastAPI](https://github.com/r5n5r/dev_words/blob/main/py_FastAPI)
   
   <i>Синтаксис, относящиеся к [FastAPI](https://fastapi.tiangolo.com/).</i>
 * py_torch_words
