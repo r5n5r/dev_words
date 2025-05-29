@@ -100,14 +100,4 @@
 <div align="center">
   <p>Сделано с ❤️ для Python-сообщества.</p>
   
-  
-  ## На ☕️ ⬇️⬇️⬇️
-  TON:
-  
-    UQDQTKiWERYfz2TdhmvWDx92tIEx8fuhh3IeKKoch2QilqHT
-    
-  USDT: 
-  
-    0x44CFb6299A728cC19AF6D2A4B8641f723B10ED6A
-  </p>
-</div>
+
