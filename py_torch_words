@@ -1,0 +1,1 @@
+torch.tensor torch.randn() torch.zeros() torch.ones() nn.Module nn.Linear nn.ReLU nn.CrossEntropyLoss optim.Adam backward() optimizer.step() DataLoader Dataset batch_size shuffle device("cuda") to() 
