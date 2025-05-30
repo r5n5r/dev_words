@@ -1,0 +1,1 @@
+requests.get() requests.post() params json= headers proxies timeout Session() with .json() .text .content .raise_for_status() 
