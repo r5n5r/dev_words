@@ -1,0 +1,1 @@
+scrapy.Spider start_urls parse() yield .css() .xpath() .get() .getall() scrapy.Item scrapy.Field() process_item() spider yield CrawlSpider LinkExtractor Rule scrapy.Request callback meta
